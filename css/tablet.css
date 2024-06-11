@@ -50,6 +50,11 @@
     .header-nav-link:focus {
         color: #404bbf;
         }
+
+    .header-burger-btn {
+        display: none;
+        }
+        
     /* #endregion Header */
 
     /* #region Address */
